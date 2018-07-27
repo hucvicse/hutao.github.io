@@ -16,4 +16,9 @@ https://blog.csdn.net/zxl97121/article/details/39665681
 ## Github搭建个人博客（2018最新版）
 https://blog.csdn.net/Maple_ROSI/article/details/79484691
 
+## Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析
+1、HashMap 不支持并发线程  
+2、ConcurrentHashMap支持并发线程  
+http://www.importnew.com/28263.html
+
 ## 待续......
